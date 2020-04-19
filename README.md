@@ -1,2 +1,2 @@
-# sample_remote_data
+# Sample Dart Package
 A sample Dart package for fetching remote data.
